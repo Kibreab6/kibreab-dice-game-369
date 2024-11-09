@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(72, 88, 102);
+
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    font-weight: 700px;
+    font-size: 100px;
+    color:aquamarine;
+    margin-bottom: 35px;
+    font-family:cursive;
+}
+.image {
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+.abebe {
+    padding-left: 50px;
+}
+h2 {
+    color:aquamarine;
+    text-align: center;
+    font-family: cursive
+}
